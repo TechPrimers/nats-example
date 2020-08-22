@@ -3,7 +3,7 @@
 ## Start Nats Server using Docker
 - Start Nats Server using Docker
   ```
-  docker run --name nats --rm -p 4222:4222 nats`
+  docker run --name nats --rm -p 4222:4222 nats
   ```
 - Connecting to NATS Server
   ```
